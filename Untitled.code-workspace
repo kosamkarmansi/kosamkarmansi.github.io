@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../kosamkarmansi.github.io"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html5up-editorial"
+	}
+}
